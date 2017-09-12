@@ -1,0 +1,23 @@
+[Solarized Ligth]
+background=EEE8D5
+text=002b36
+text(bold)=073642
+cyan=93a1a1
+cyan(bold)=2aa198
+magenta=6c71c4
+magenta(bold)=d33682
+green=586e75 
+green(bold)=859900
+yellow=657b83
+yellow(bold)=b58900
+red=dc322f
+red(bold)=dc322f
+white=fdf6e3
+white(bold)=fdf6e3
+blue=839496
+blue(bold)=268bd2
+black=002b36
+black(bold)=073642
+[Names]
+name0=Solarized Ligth
+count=1
